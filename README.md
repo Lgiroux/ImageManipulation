@@ -14,3 +14,7 @@ Noteworthy Accomplishments:
   NOTE: 
   
     Not all code is mine, some has been provided by my professor.
+    Code that is 100% mine:
+      -Cropping.c
+      -Dimensions.c
+      -Split.c
