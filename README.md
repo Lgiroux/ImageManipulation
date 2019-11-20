@@ -10,3 +10,7 @@ Noteworthy Accomplishments:
   -working upon structs through void functions by use of pointers
   
   -file I/O 
+  
+  NOTE: 
+  
+    Not all code is mine, some has been provided by my professor.
